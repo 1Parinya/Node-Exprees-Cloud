@@ -1,0 +1,28 @@
+{
+  "name": "Node-Exprees-Cloud",
+  "version": "1.0.0",
+  "description": "test Deploy Node to Cloud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "pettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1Parinya/Node-Exprees-Cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1Parinya/Node-Exprees-Cloud/issues"
+  },
+  "homepage": "https://github.com/1Parinya/Node-Exprees-Cloud#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
